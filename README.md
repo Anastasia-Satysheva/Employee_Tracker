@@ -2,7 +2,7 @@
 An app - solution for managing a company's employees.
 
 ### Features
-A command-line application that at a minimum allows the user to add departments, roles, employees + view departments, roles, employees + update employee roles.
+A command-line application that allows the user to add departments, roles, employees + view departments, roles, employees + update employee roles.
 
 ### Tech/framework used
 Built using Node, Inquirer, and MySQL.
